@@ -27,17 +27,3 @@ This paper examines how three monetary policy instruments—the federal funds ra
 
 **JEL Classification:** E52, E58, E21, D63
 
----
-
-##### Citation
-
-Yang, Jiayi. 2026. "Instruments Apart: Monetary Policy and Consumption Inequality across U.S. Regions and Income Groups." SSRN Working Paper. https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7522658.
-
-```BibTeX
-@unpublished{Yang2026,
-author = {Yang, Jiayi},
-title = {Instruments Apart: Monetary Policy and Consumption Inequality across {U.S.} Regions and Income Groups},
-note = {SSRN Working Paper},
-url = {https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7522658},
-year = {2026}}
-```
