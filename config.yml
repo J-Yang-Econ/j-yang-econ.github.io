@@ -49,7 +49,10 @@ params:
     My research lies at the intersection of monetary economics and macroeconomics, with a focus on unconventional monetary policy, the bank lending channel of monetary policy transmission, and the distributional effects of monetary policy. My work is primarily empirical.
     
 
-    **I am currently on the academic job market.**"
+    **I am currently on the academic job market.**
+
+
+    **Job Market Paper:** [Instruments Apart: Monetary Policy and Consumption Inequality across U.S. Regions and Income Groups](papers/jmp/)"
 
     buttons:
       - name: Papers
@@ -75,8 +78,6 @@ params:
     hiddenInSingle: true
   label:
     text: "Jiayi Yang"
-    icon: favicon.ico
-    iconHeight: 18
 
 markup:
   goldmark:
