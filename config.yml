@@ -14,10 +14,10 @@ menu:
   main:
     - name: Home
       url: /
-      weight: 0
+      weight: 1
     - name: Papers
       url: papers/
-      weight: 1
+      weight: 2
 
 params:
   description: "Research on unconventional monetary policy, negative interest rates, and distributional effects of monetary policy."
@@ -33,7 +33,7 @@ params:
   disableSpecial1stPost: true
   disableAnchoredHeadings: true
   ShowPostNavLinks: false
-  ShowBreadCrumbs: false
+  ShowBreadCrumbs: true
   ShowCodeCopyButtons: true
   ShowAllPagesInArchive: false
   MainSections: ["papers"]
