@@ -12,12 +12,16 @@ taxonomies:
 
 menu:
   main:
+    - name: Home
+      url: /
+      weight: 0
     - name: Papers
       url: papers/
       weight: 1
 
 params:
   description: "Research on unconventional monetary policy, negative interest rates, and distributional effects of monetary policy."
+  images: ["og-image.png"]
   author: Jiayi Yang
   # googleAnalyticsID: "G-XXXXX"
   DateFormat: "January 2006"
